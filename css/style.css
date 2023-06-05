@@ -164,6 +164,7 @@ a {
 }
 
 .current::after {
+  width: 100%;
   content: '';
   position: absolute;
   left: 0;
