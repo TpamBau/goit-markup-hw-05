@@ -109,7 +109,6 @@ a {
   text-transform: uppercase;
   /* text-transform: uppercase; РЕГІСТР СИМВОЛІВ У ТЕКСТІ */
   margin-right: 76px;
-  position: relative;
   color: #404bbf;
 }
 
@@ -157,6 +156,7 @@ a {
   letter-spacing: 0.02em;
   /* letter-spacing: 0.02em; ІНТЕРВАЛ МІЖ СИМВОЛАМИ */
   color: #434455;
+  position: relative;
 }
 
 .menu-item:focus,
