@@ -108,8 +108,9 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   /* text-transform: uppercase; РЕГІСТР СИМВОЛІВ У ТЕКСТІ */
-  color: #4d5ae5;
   margin-right: 76px;
+  position: relative;
+  color: #404bbf;
 }
 
 .header-list {
