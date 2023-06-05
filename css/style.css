@@ -163,7 +163,7 @@ a {
   color: #404bbf;
 }
 
-.current::after {
+.menu-item::after {
   width: 100%;
   content: '';
   position: absolute;
